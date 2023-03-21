@@ -3,7 +3,7 @@ Hola, chicos en este repositorio encontrarán toda la clase 6 del curso de visi�
 
 ### Conceptos introductorios:
 - En este repositorio aprenderá y se expondrá a una amplia gama de temas interesantes como manipulación de imágenes y videos, mejora de imágenes, filtrado, detección de bordes, detección y seguimiento de objetos, detección de rostros y el módulo de aprendizaje profundo con OpenCV.
-- Para iniciar recomendamos ver algunos conceptos introductorios sobre los diferentes tipos de transformacion que puedes encontrar en vision artificial, por eso te dejamos la explicación en este [video.](https://youtu.be/heA2Q5n2xN0)
+- Para iniciar recomendamos ver algunos conceptos introductorios sobre los diferentes tipos de transformacion que puedes encontrar en vision artificial, por eso te dejamos la explicación en este [video.](https://youtu.be/Kf03WZdlMro)
 
 
 ![Miniatura (1)](https://user-images.githubusercontent.com/85022752/226739714-675bfffe-ddb2-4e43-bfc0-2301b48fd274.jpg)
@@ -36,22 +36,16 @@ Hola, chicos en este repositorio encontrarán toda la clase 6 del curso de visi�
 
 
 ### Caracteristicas:
-- INICIAMOS con la programación; [Caracteristicas.py,](https://github.com/AprendeIngenia/Tecnicas-de-Procesamiento-en-Tiempo-real/blob/7546a1a30d4d599574fe4c3816bd07e0a97938d3/ProcesamientoRT.py) en este primer script buscamos unir muchos conceptos vistos anteriormente como lo son:
+- INICIAMOS con la programación; [Caracteristicas.py,](https://github.com/AprendeIngenia/Alineacion-de-imagenes-Clase-6/blob/e14853c813ed39463a5813537a1c03de14f04094/Caracteristicas.py) en este primer script buscamos extraer puntos clave pertenecientes a caracteristicas fisicas del objeto que queremos alinear, para que entiendas un poco mejor te dejamos la explicación en este [video.](https://youtu.be/Kf03WZdlMro)
 
-  - Declaracion de librerias.
-  - Captura de video en tiempo real.
-  - Lectura del teclado.
-  
-- Despues de implementar estos conceptos, añadimos 3 tecnicas de procesamiento de imagenes como lo son:
+### Coincidencias:
+- Continuamos con la programación; [Coincidencias.py,](https://github.com/AprendeIngenia/Alineacion-de-imagenes-Clase-6/blob/e14853c813ed39463a5813537a1c03de14f04094/Coincidencias.py) en este script buscamos conservar los puntos clave extraido anteriormente tanto de una imagen patron como de nuestros frames en tiempo real, una vez logramos almacenarlos procedemos a buscar los puntos coincidentes entre si, para que entiendas un poco mejor te dejamos la explicación en este [video.](https://youtu.be/Kf03WZdlMro)
 
-  - Desenfoque de camara.
-  - Deteccion de bordes.
-  - Deteccion de esquinas.
-
-- Recuerda que puedes ver la explicación completa en este [video.](https://youtu.be/heA2Q5n2xN0)
+### Alineación:
+- Finalizamos la programación con [AlineacionIMG.py,](https://github.com/AprendeIngenia/Alineacion-de-imagenes-Clase-6/blob/e14853c813ed39463a5813537a1c03de14f04094/AlineacionIMG.py) en este script buscamos utilizar los puntos coincidentes pertenecientes a puntos fisicos del objeto que queremos alinear, con el fin de realizar un cambio de perspectiva y transformar una imagen con un angulo de inclinación a una imagen frontal, para que entiendas un poco mejor te dejamos la explicación en este [video.](https://youtu.be/Kf03WZdlMro)
 
 
-![CURSO ACELERADO OPENCV](https://user-images.githubusercontent.com/85022752/225075086-862e76c0-5c5b-40c0-ac3c-86c10252ba43.jpg)
+![CURSO ACELERADO OPENCV](https://user-images.githubusercontent.com/85022752/226744562-182fe9c1-c772-41e2-adee-4e26cfc9db80.png)
 
 
 # Recuerda que puedes contribuir a que siga desarrollando:
