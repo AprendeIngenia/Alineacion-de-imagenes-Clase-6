@@ -12,7 +12,7 @@ Hola, chicos en este repositorio encontrarán toda la clase 6 del curso de visi�
 ### Instalación del entorno:
 - Para iniciar con la programación debes de instalar Python y Pycharm, para esto te dejo los instaladores en este [link.](https://drive.google.com/drive/folders/1QY4yvfdcG3BObTwtHJSdWfW-vPyKMiNS?usp=share_link)
 
-### CONCEPTOS CLAVE:
+# CONCEPTOS CLAVE:
 
 
 ![CURSO ACELERADO OPENCV](https://user-images.githubusercontent.com/85022752/226740435-7f2a41bb-7fe7-473f-8915-b4a1ab20a28b.png)
@@ -33,6 +33,8 @@ Hola, chicos en este repositorio encontrarán toda la clase 6 del curso de visi�
 ### Transformacón Homografica:
 
 ![CURSO ACELERADO OPENCV (4)](https://user-images.githubusercontent.com/85022752/226741724-6ba578a0-b558-4a9b-aef6-8a6647262541.png)
+
+# PROGRAMACIÓN:
 
 
 ### Caracteristicas:
