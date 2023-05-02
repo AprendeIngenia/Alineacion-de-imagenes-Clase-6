@@ -6,7 +6,7 @@ Hola, chicos en este repositorio encontrarán toda la clase 6 del curso de visi�
 - Para iniciar recomendamos ver algunos conceptos introductorios sobre los diferentes tipos de transformacion que puedes encontrar en vision artificial, por eso te dejamos la explicación en este [video.](https://youtu.be/Kf03WZdlMro)
 
 
-![Miniatura (1)](https://user-images.githubusercontent.com/85022752/226739714-675bfffe-ddb2-4e43-bfc0-2301b48fd274.jpg)
+![Miniatura YouTube curso SEO 3D morado (6)](https://user-images.githubusercontent.com/85022752/235785222-d1275cc3-7c39-412e-adb2-d48bde6785f4.jpg)
 
 
 ### Instalación del entorno:
